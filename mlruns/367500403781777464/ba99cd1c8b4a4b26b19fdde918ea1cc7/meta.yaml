@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/2185206/knn/mlruns/367500403781777464/ba99cd1c8b4a4b26b19fdde918ea1cc7/artifacts
+end_time: 1757140144731
+entry_point_name: ''
+experiment_id: '367500403781777464'
+lifecycle_stage: active
+run_id: ba99cd1c8b4a4b26b19fdde918ea1cc7
+run_name: caring-crane-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757140117357
+status: 3
+tags: []
+user_id: '2185206'
